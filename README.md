@@ -4,7 +4,7 @@ Repositório criado para centralizar os desafios de projeto para os estudos de Q
 
 ## Git e GitHub
 
-<details open>
+<details close>
 <summary>Commit e Pull Request</summary>
 
 * Criar nova branch
@@ -28,7 +28,7 @@ Repositório criado para centralizar os desafios de projeto para os estudos de Q
     > git log --grep "15898”
 
 </details>
-<details open>
+<details close>
 <summary>Excluir Branch</summary>
 
 * Realizar checkout para outra branch
@@ -38,7 +38,7 @@ Repositório criado para centralizar os desafios de projeto para os estudos de Q
     > git branch -d fix-17252
 
 </details>
-<details open>
+<details close>
 <summary>Resolver Conflitos</summary>
 
 * Verificar último commit de cada branch
@@ -68,7 +68,7 @@ Repositório criado para centralizar os desafios de projeto para os estudos de Q
     > git clone {URL} --branch {NOME-BRANCH} --single-branch
 
 </details>
-<details open>
+<details close>
 <summary>Arquivar modificações atuais</summary>
 
 * Arquiva atualizações

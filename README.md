@@ -64,11 +64,10 @@ Repositório criado para centralizar os desafios de projeto para os estudos de Q
 * Descartar todas alterações da branch atual
     > git reset --hard
 
-</details>
-
 * Clonar apenas uma branch de um repositório
     > git clone {URL} --branch {NOME-BRANCH} --single-branch
 
+</details>
 <details open>
 <summary>Arquivar modificações atuais</summary>
 
